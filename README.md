@@ -7,6 +7,7 @@
 * [Mistakes Reviewers Make | Niklas Elmqvist - 2016](https://sites.umiacs.umd.edu/elm/2016/02/01/mistakes-reviewers-make/)
 
 ## Presenting
+* [How to present | Saul Greenberg ](http://saul.cpsc.ucalgary.ca/pmwiki.php/GradTips/GradTipsHowToPresent)
 * [How to Give a Great Research Talk ? | Gilles Bailly - IHM RJC - 2015](http://rjc2015.afihm.org/supports/Gilles-RJC2015-great_research_talk.pdf)
 * [How to Give a Great Research Talk. | Krumm, J., Baudisch, P., Czerwinski, M, and Szeliski, R. -Internal presentation at Microsoft Research - 2007](http://research.microsoft.com/apps/video/dl.aspx?id=103946&l=i)
 
