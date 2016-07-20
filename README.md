@@ -1,8 +1,11 @@
 # TipsAndTricks
 
+When you are a grade student, or sometime a phd students, your superviser or professor ask you to do some tasks you do not now how to do it. So here I try to gather and collect some links of tips and tricks for my student. All this links are on how to do simple things  such as related work, writing, reviewing, presenting ... If you have any suggestion of links please add it, or send it to me. 
+
+
 ## Related Work  
 
-* Pierre Dragicevic ? 
+* [Literature Survey Decision Charts | Pierre Dragicevic](http://www.aviz.fr/literature)
 
 ## Writing 
 * [Structure of a Chapter 1 | Saul Greenberg](http://saul.cpsc.ucalgary.ca/pmwiki.php/GradTips/GradTipsStructureChapter1)
@@ -23,5 +26,5 @@
 ## Stats
 * [INTRODUCTION AUX NOUVELLES STATISTIQUES POUR L'IHM |  Pierre Dragicevic - IHM RJC 2015 ](http://rjc2015.afihm.org/supports/RJC2015_Dragicevic_Stats.pdf)
 
-## Tips Collections
+## Other Tips Collections
 * [Grad Tips Collections | Saul Greenberg ](http://saul.cpsc.ucalgary.ca/pmwiki.php/GradTips/GradTips)
