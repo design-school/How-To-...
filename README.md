@@ -2,6 +2,7 @@
 
 ## Writing 
 * [Structure of a Chapter 1 | Saul Greenberg](http://saul.cpsc.ucalgary.ca/pmwiki.php/GradTips/GradTipsStructureChapter1)
+* [Tips for Writing Technical Papers | Jennifer Widom at Stanford InfoLab](http://cs.stanford.edu/people/widom/paper-writing.html)
 
 ## Reviewing 
 * [Mistakes Reviewers Make | Niklas Elmqvist - 2016](https://sites.umiacs.umd.edu/elm/2016/02/01/mistakes-reviewers-make/)
