@@ -7,10 +7,11 @@ When you are a grade student, or sometime a phd students, your superviser or pro
 
 * [Literature Survey Decision Charts | Pierre Dragicevic](http://www.aviz.fr/literature)
 
-## Writing 
+## Writting 
 * [Structure of a Chapter 1 | Saul Greenberg](http://saul.cpsc.ucalgary.ca/pmwiki.php/GradTips/GradTipsStructureChapter1)
 * [Tips for Writing Technical Papers | Jennifer Widom at Stanford InfoLab](http://cs.stanford.edu/people/widom/paper-writing.html)
 * [Writing technical papers | Aaron Hertzmann](http://www.dgp.toronto.edu/~hertzman/advice/writing-technical-papers.pdf)
+* [PhD: How to write a great research paper](https://www.youtube.com/watch?v=1AYxMbYZQ1Y)
 
 ## Reviewing 
 * [Mistakes Reviewers Make | Niklas Elmqvist - 2016](https://sites.umiacs.umd.edu/elm/2016/02/01/mistakes-reviewers-make/)
