@@ -16,7 +16,7 @@ When you are a grade student, or sometime a phd students, your superviser or pro
 ## Reading scientific paper / Reviewing paper 
 * [Mistakes Reviewers Make | Niklas Elmqvist - 2016](https://sites.umiacs.umd.edu/elm/2016/02/01/mistakes-reviewers-make/)
 * [So You're a Program Committee Member Now](http://mobilehci.acm.org/2015/download/ExcellenceInReviewsforHCICommunity.pdf)
-* [READING SCIENTIFIC PAPERS | Robert Siegel]( http://web.stanford.edu/~siegelr/readingsci.htm)
+* [READING SCIENTIFIC PAPERS | Robert Siegel]( http://web.stanford.edu/~siegelr/readingsci.htm) (video)
 
 ## Presenting
 * [How to present | Saul Greenberg ](http://saul.cpsc.ucalgary.ca/pmwiki.php/GradTips/GradTipsHowToPresent)
