@@ -13,7 +13,7 @@ When you are a grade student, or sometime a phd students, your superviser or pro
 * [Writing technical papers | Aaron Hertzmann](http://www.dgp.toronto.edu/~hertzman/advice/writing-technical-papers.pdf)
 * [PhD: How to write a great research paper](https://www.youtube.com/watch?v=1AYxMbYZQ1Y)
 
-## Reviewing 
+## Reading scientific paper / Reviewing paper 
 * [Mistakes Reviewers Make | Niklas Elmqvist - 2016](https://sites.umiacs.umd.edu/elm/2016/02/01/mistakes-reviewers-make/)
 * [So You're a Program Committee Member Now](http://mobilehci.acm.org/2015/download/ExcellenceInReviewsforHCICommunity.pdf)
 * [READING SCIENTIFIC PAPERS | Robert Siegel]( http://web.stanford.edu/~siegelr/readingsci.htm)
