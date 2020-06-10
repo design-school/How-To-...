@@ -18,6 +18,9 @@ When you are a grade student, or sometime a phd students, your superviser or pro
 * [So You're a Program Committee Member Now](http://mobilehci.acm.org/2015/download/ExcellenceInReviewsforHCICommunity.pdf)
 * [READING SCIENTIFIC PAPERS | Robert Siegel]( http://web.stanford.edu/~siegelr/readingsci.htm) (video)
 
+## phd thesis 
+* [A presentation from Stuart Card - Stanford University, The PhD Thesis Deconstructed or How to help students wandering in the land of the mind to work, finish, publish, become famous, win prizes, and reflect glory on their supervisors.](http://vacommunity.org/ieeevpg/speakers/TALK-2015.10-VIS-PhD.pdf)
+
 ## Presenting
 * [How to present | Saul Greenberg ](http://saul.cpsc.ucalgary.ca/pmwiki.php/GradTips/GradTipsHowToPresent)
 * [How to Give a Great Research Talk ? | Gilles Bailly - IHM RJC - 2015](http://rjc2015.afihm.org/supports/Gilles-RJC2015-great_research_talk.pdf)
