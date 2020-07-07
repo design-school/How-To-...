@@ -13,10 +13,12 @@ When you are a grade student, or sometime a phd students, your superviser or pro
 * [Writing technical papers | Aaron Hertzmann](http://www.dgp.toronto.edu/~hertzman/advice/writing-technical-papers.pdf)
 * [PhD: How to write a great research paper](https://www.youtube.com/watch?v=1AYxMbYZQ1Y)
 
+
 ## Reading scientific paper / Reviewing paper 
 * [Mistakes Reviewers Make | Niklas Elmqvist - 2016](https://sites.umiacs.umd.edu/elm/2016/02/01/mistakes-reviewers-make/)
 * [So You're a Program Committee Member Now](http://mobilehci.acm.org/2015/download/ExcellenceInReviewsforHCICommunity.pdf)
 * [READING SCIENTIFIC PAPERS | Robert Siegel]( http://web.stanford.edu/~siegelr/readingsci.htm) (video)
+* [List of 'Open Access' design journals](https://docs.google.com/document/d/1_p7KuMk2xpfiqIQNUyh7Ot4JDLMw3skq8OyG3Z0gQq0/edit)
 
 ## phd thesis 
 * [A presentation from Stuart Card - Stanford University, The PhD Thesis Deconstructed or How to help students wandering in the land of the mind to work, finish, publish, become famous, win prizes, and reflect glory on their supervisors.](http://vacommunity.org/ieeevpg/speakers/TALK-2015.10-VIS-PhD.pdf)
